@@ -1,5 +1,7 @@
 # Charmed Seldon Core Operator
 
+Dummy change, don't merge.
+
 [![Charmed Seldon Core Operator](https://charmhub.io/seldon-core/badge.svg)](https://charmhub.io/seldon-core)
 
 ## Description
