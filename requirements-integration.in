@@ -1,7 +1,7 @@
 aiohttp
 jinja2
 # Pinning to <4.0 due to compatibility with the 3.1 controller version
-juju @ https://test-files.pythonhosted.org/packages/38/59/6065b5c17557ca030bf597a203b0b8032594627e1842e273df1b4cd0428c/juju-3.6.1.0rc4-py3-none-any.whl
+juju @ https://test-files.pythonhosted.org/packages/75/a8/65e80bc415ddede5e466a617390d34cc3d1582f811240af27f7e0baee4ac/juju-3.6.1.0rc5-py3-none-any.whl
 lightkube
 pytest-operator
 pyyaml
