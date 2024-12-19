@@ -50,7 +50,7 @@ decorator==5.1.1
     #   ipython
 deepdiff==6.2.1
     # via charmed-kubeflow-chisme
-exceptiongroup==1.2.1
+exceptiongroup==1.2.2
     # via
     #   anyio
     #   pytest
@@ -76,7 +76,7 @@ idna==3.7
     #   httpx
     #   requests
     #   yarl
-importlib-resources==6.4.0
+importlib-resources==6.4.5
     # via jsonschema
 iniconfig==2.0.0
     # via pytest
@@ -93,7 +93,7 @@ jinja2==3.1.4
     #   pytest-operator
 jsonschema==4.17.3
     # via serialized-data-interface
-juju @ https://test-files.pythonhosted.org/packages/75/a8/65e80bc415ddede5e466a617390d34cc3d1582f811240af27f7e0baee4ac/juju-3.6.1.0rc5-py3-none-any.whl
+juju @ https://test-files.pythonhosted.org/packages/c5/c8/a2c3696981e4af9fb09f4193f5f5da81ae91a2db6a6fdbb4bb02730a3f75/juju-3.6.1.0rc6-py3-none-any.whl
     # via
     #   -r requirements-integration.in
     #   charmed-kubeflow-chisme
@@ -232,7 +232,7 @@ tenacity==8.5.0
     # via
     #   -r requirements-integration.in
     #   charmed-kubeflow-chisme
-tomli==2.0.1
+tomli==2.2.1
     # via
     #   ipdb
     #   pytest
@@ -264,5 +264,5 @@ websockets==13.1
     # via juju
 yarl==1.9.4
     # via aiohttp
-zipp==3.19.2
+zipp==3.20.2
     # via importlib-resources
